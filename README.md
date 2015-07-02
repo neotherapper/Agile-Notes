@@ -10,20 +10,34 @@ Table of Contents
 
 
 ##The Agile Manifesto
+Manifesto for Agile Software Development 
+
+We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value: 
+
+* **Individuals and interactions** over processes and tools
+  * in agile development, self-organization and motivation are important, as are interactions like co-location and pair programming.
+* **Working software** over comprehensive documentation
+  * working software will be more useful and welcome than just presenting documents to clients in meetings. 
+* **Customer collaboration** over contract negotiation
+  * requirements cannot be fully collected at the beginning of the software development cycle, therefore continuous customer or stakeholder involvement is very important.
+* **Responding to change** over following a plan
+  * agile development is focused on quick responses to change and continuous development
+That is, while there is value in the items on the right, we value the items on the left more.
+
 The Agile Manifesto is based on twelve principles:
 
-* Customer satisfaction by rapid delivery of useful software
-* Welcome changing requirements, even late in development 
-* Working software is delivered frequently (weeks rather than months) 
-* Working software is the principal measure of progress 
-* Sustainable development, able to maintain a constant pace 
-* Close, daily cooperation between business people and developers 
-* Face-to-face conversation is the best form of communication (co-location) 
-* Projects are built around motivated individuals, who should be trusted 
-* Continuous attention to technical excellence and good design 
-* Simplicity—the art of maximizing the amount of work not done—is essential 
-* Self-organizing teams 
-* Regular adaptation to changing circumstances
+1. Customer satisfaction by rapid delivery of useful software
+2. Welcome changing requirements, even late in development 
+3. Working software is delivered frequently (weeks rather than months) 
+4. Working software is the principal measure of progress 
+5. Sustainable development, able to maintain a constant pace 
+6. Close, daily cooperation between business people and developers 
+7. Face-to-face conversation is the best form of communication (co-location) 
+8. Projects are built around motivated individuals, who should be trusted 
+9. Continuous attention to technical excellence and good design 
+10. Simplicity—the art of maximizing the amount of work not done—is essential 
+11. Self-organizing teams 
+12. Regular adaptation to changing circumstances
 
 ##Test-driven development
 "Test-driven development" refers to a style of programming in which three activities are tightly interwoven: coding, testing (in the form of writing unit tests) and design (in the form of refactoring).
