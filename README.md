@@ -4,8 +4,26 @@ Notes for agile methodology
 Table of Contents
 =================
 
+* [The Agile Manifesto](#The Agile Manifesto)
 * [Test-driven development](#Test-driven development)
 * [Rules Of Simplicity](#Rules Of Simplicity)
+
+
+##The Agile Manifesto
+The Agile Manifesto is based on twelve principles:
+
+* Customer satisfaction by rapid delivery of useful software
+* Welcome changing requirements, even late in development 
+* Working software is delivered frequently (weeks rather than months) 
+* Working software is the principal measure of progress 
+* Sustainable development, able to maintain a constant pace 
+* Close, daily cooperation between business people and developers 
+* Face-to-face conversation is the best form of communication (co-location) 
+* Projects are built around motivated individuals, who should be trusted 
+* Continuous attention to technical excellence and good design 
+* Simplicity—the art of maximizing the amount of work not done—is essential 
+* Self-organizing teams 
+* Regular adaptation to changing circumstances
 
 ##Test-driven development
 "Test-driven development" refers to a style of programming in which three activities are tightly interwoven: coding, testing (in the form of writing unit tests) and design (in the form of refactoring).
